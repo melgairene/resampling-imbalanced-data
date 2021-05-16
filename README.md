@@ -5,4 +5,4 @@ In this repository we consider the following popular resampling techniques: over
 These combinations are implemented in the file Resampling_techniques_cancer on the imbalanced dataset available at http://archive.ics.uci.edu/ml/datasets/Breast+Cancer. 
 This breast cancer domain was obtained from the Uni-versity Medical Centre, Institute of Oncology, Ljubljana,Yugoslavia. Thanks go to M. Zwitter and M. Soklic forproviding the data.
 
-In the file Generating_figures I provide a visualization on how these techniques affect a simple imbalanced dataset.
+In the file Generate_Figures I provide a visualization on how these techniques affect a simple imbalanced dataset.
